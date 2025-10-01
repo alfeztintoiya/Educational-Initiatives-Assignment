@@ -12,9 +12,11 @@ python main.py
 
 
 Tested Commands Screenshot:
+
 ## Commands List
-![Commands List](Commands%20List.jpeg)
+![Commands List](Commands_List.jpeg)
 
 ## Tested Commands
-![Tested Commands](Tested%20Commands.jpeg)
+![Tested Commands](Tested_Commands.jpeg)
+
 
