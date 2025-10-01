@@ -15,9 +15,9 @@ Tested Commands Screenshot:
 
 ## Commands List
 ## Commands List
-![Commands List](images/CommandsList.jpeg)
+![Commands List](images/CommandsList.png)
 
 ## Tested Commands
-![Tested Commands](images/TestedCommands.jpeg)
+![Tested Commands](images/TestedCommands.png)
 
 
