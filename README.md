@@ -14,10 +14,8 @@ python main.py
 Tested Commands Screenshot:
 
 ## Commands List
-## Commands List
-![Commands List](images/CommandsList.png)
+<img src="images/CommandsList.jpeg" alt="Commands List">
+
 
 ## Tested Commands
-![Tested Commands](images/TestedCommands.png)
-
-
+<img src="images/TestedCommands.jpeg" alt="Tested Commands">
