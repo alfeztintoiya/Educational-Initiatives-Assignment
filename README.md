@@ -9,7 +9,7 @@ It allows managing classrooms, students, assignments, and attendance.
 
 ```bash
 python main.py
-
+```
 
 Tested Commands Screenshot:
 
