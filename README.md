@@ -13,7 +13,8 @@ python main.py
 
 Tested Commands Screenshot:
 ## Commands List
-<img src="Commands List.jpeg" alt="Commands List">
+![Commands List](Commands%20List.jpeg)
 
 ## Tested Commands
-<img src="Tested Commands.jpeg" alt="Tested Commands">
+![Tested Commands](Tested%20Commands.jpeg)
+
