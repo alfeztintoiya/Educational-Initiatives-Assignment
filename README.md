@@ -14,9 +14,9 @@ python main.py
 Tested Commands Screenshot:
 
 ## Commands List
-![Commands List](Commands_List.jpeg)
+![Commands List](/Volumes/MY  DISK/Web_Development_Project/Backend_Project/Virtual Classroom Backend/Commands List.jpeg)
 
 ## Tested Commands
-![Tested Commands](Tested_Commands.jpeg)
+![Tested Commands](/Volumes/MY  DISK/Web_Development_Project/Backend_Project/Virtual Classroom Backend/Tested Commands.jpeg)
 
 
